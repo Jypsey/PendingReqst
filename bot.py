@@ -23,7 +23,7 @@ BOT_TOKEN = "8175825591:AAH-OjjSS19fTEyvKhSu5UjJ3vT1TyOdLtQ"
 
 # Admin user IDs - Add your admin user IDs here
 
-ADMIN_USERS = [123456789]  # Replace with actual admin user IDs
+ADMIN_USERS = [5531461861]  # Replace with actual admin user IDs
 
 
 # Initialize the bot and database
@@ -37,9 +37,9 @@ db = Database()
 
 WELCOME_MESSAGE = "Welcome to our channel! Thank you for joining."
 
-WELCOME_BUTTON_TEXT = "Visit our website"
+WELCOME_BUTTON_TEXT = "MAIN GROUP"
 
-WELCOME_BUTTON_URL = "https://example.com"  # Change this to your website URL
+WELCOME_BUTTON_URL = "https://t.me/+0o5mznnbLDJlYzA1"  # Change this to your website URL
 
 
 # Store user states
